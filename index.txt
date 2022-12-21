@@ -1,7 +1,0 @@
-
-<!-- saved from url=(0078)chrome-extension://pmjcfdncnnnjddcfljhhmllmbkkgbhea/src/override/override.html -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-    <title>New Tab - Catify</title> 
-
-<br><br><br><br><br><br><br><br><br><div align="center" style="position:relative; bottom:1px; color:#033">
-<span style="background:url(https://media0.giphy.com/media/WrHrrwqxCTTb7uKQQX/source.gif)"><font color="black">WELL DONE!! YOU CAUGHT THE CAT!!!<font/>
